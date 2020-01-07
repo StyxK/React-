@@ -1,8 +1,59 @@
-.searc{
-  padding: 15cm
+.search{
+  min-height: 28px !important;
 }
 
 .reponame{
   font-size: 0.5cm;
   color: blue
+}
+
+.head{
+  background-color:#24292e !important;
+  border-radius: 0 !important
+}
+
+.menuContainer{
+  background-color: #fafbfc;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+.menuBar{
+  padding-top: 0 !important;
+}
+
+.activeMenu{
+  border-top: solid #e36209 !important;
+  border-bottom: 0px !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.menu{
+  background-color: transparent !important;
+  border:0px !important;
+}
+
+.commit{
+  margin-top: 10 !important;
+}
+
+.marginTop{
+  margin-top: 3vh !important;
+}
+
+.info{
+  margin: 1vw;
+  border: 1px solid #e1e4e8 !important;
+  border-radius: 2px;
+}
+
+.navigate{
+  background-color: transparent !important;
+  color: white !important;
+}
+
+.footer{
+  background-color: transparent !important;
+  color: blue !important;
+  font-size: 11.5px !important
 }
